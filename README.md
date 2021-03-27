@@ -11,3 +11,7 @@
   Set terminator as default terminal
   
     sudo update-alternatives --config x-terminal-emulator
+    
+## Change shell from bash to zsh
+
+  https://www.tecmint.com/install-zsh-shell-in-fedora/
