@@ -1,12 +1,12 @@
 # Reference-linux-fedora
 
-Create custom keyboard shortcut for terminal
+## Create custom keyboard shortcut for terminal
   
   Add below to shortcut and assign combo (win+t) 
   
     gnome-terminal --profile=Default --geometry=95x35+250+60
     
-# Install terminator
+## Install terminator
 
   Set terminator as default terminal
   
